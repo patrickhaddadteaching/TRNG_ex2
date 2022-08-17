@@ -5,7 +5,7 @@ By checking the box, you can save the generated bits in a local file.
 
 Randomness is analyzed by observing the distribution and the auto-correlation of generated 4-bit bit-vectors.
 
-Your goal is to find the the smallest $D$ for which the MO-TRNG would not be distinguishable from an ideal RNG.
+Your goal is to find the the highest throuput (i.e. lowest $D$) for which the MO-TRNG would not be distinguishable from an ideal RNG.
 In the case of an ideal RNG, the distribution and the auto-correlation are in 99.9\% of the cases between the red lines.
 
 ## How to launch the exercise ?
