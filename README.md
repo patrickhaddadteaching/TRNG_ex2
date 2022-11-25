@@ -9,11 +9,11 @@ Your goal is to find the the highest throuput (i.e. lowest $D$) for which the MO
 In the case of an ideal RNG, the distribution and the auto-correlation are in 99.9\% of the cases between the red lines.
 
 ## How to launch the exercise ?
-* We can execute this exercise on [Colab](https://colab.research.google.com/github/patrickhaddadteaching/TRNG_ex2/blob/main/TRNG_ex2_nb.ipynb){:target="_blank"}
-    * [Click here](https://colab.research.google.com/github/patrickhaddadteaching/TRNG_ex2/blob/main/TRNG_ex2_nb.ipynb){:target="_blank"}
+* We can execute this exercise on [Colab](https://colab.research.google.com/github/patrickhaddadteaching/TRNG_ex2/blob/main/TRNG_ex2_nb.ipynb)
+    * [Click here](https://colab.research.google.com/github/patrickhaddadteaching/TRNG_ex2/blob/main/TRNG_ex2_nb.ipynb){:target="_blank" rel="noopener noreferrer"}
     * Then press Ctrl+F9 or click on Runtime/Run All
 * We can also execute this exercise on Binder
-    * Click or scan the QR-code <a href="https://mybinder.org/v2/gh/patrickhaddadteaching/TRNG_ex2/main?urlpath=voila%2Frender%2FTRNG_ex2_nb.ipynb"  target="_blank"><img src="qr-code-TRNG_ex2.png" style="width:100px;height:100px;"></a>    
+    * Click or scan the QR-code <a href="https://mybinder.org/v2/gh/patrickhaddadteaching/TRNG_ex2/main?urlpath=voila%2Frender%2FTRNG_ex2_nb.ipynb"><img src="qr-code-TRNG_ex2.png" style="width:100px;height:100px;"></a>    
 * The exercise is a jupyter notebook compatible with voila.
 The following libraries are required:
     * numpy
