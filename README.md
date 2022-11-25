@@ -1,3 +1,5 @@
+[Hugo Host on GitHub](https://gohugo.io/hosting-and-deployment/hosting-on-github/){:target="_blank"}
+
 In this exercise, you can analyze the impact of design parameters of the MO-TRNG on the generator output. 
 
 You can launch the application and observe how the number of xored oscillators, the jitter variance, and the accumulation time affect the randomness of the generated numbers. 
@@ -10,7 +12,7 @@ In the case of an ideal RNG, the distribution and the auto-correlation are in 99
 
 ## How to launch the exercise ?
 * We can execute this exercise on [Colab](https://colab.research.google.com/github/patrickhaddadteaching/TRNG_ex2/blob/main/TRNG_ex2_nb.ipynb)
-    * [Click here](https://colab.research.google.com/github/patrickhaddadteaching/TRNG_ex2/blob/main/TRNG_ex2_nb.ipynb){target="_blank"}
+    * [Click here](https://colab.research.google.com/github/patrickhaddadteaching/TRNG_ex2/blob/main/TRNG_ex2_nb.ipynb)
     
     * Then press Ctrl+F9 or click on Runtime/Run All
 * We can also execute this exercise on Binder
