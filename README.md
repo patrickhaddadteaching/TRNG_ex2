@@ -1,4 +1,4 @@
-[Hugo Host on GitHub](https://gohugo.io/hosting-and-deployment/hosting-on-github/){:target="_blank"}
+<a href="http://example.com/" target="_blank">Hello, world!</a>
 
 In this exercise, you can analyze the impact of design parameters of the MO-TRNG on the generator output. 
 
