@@ -1,6 +1,3 @@
-<a href="http://google.com/" target="_blank">Hello, google!</a>
-
-
 In this exercise, you can analyze the impact of design parameters of the MO-TRNG on the generator output. 
 
 You can launch the application and observe how the number of xored oscillators, the jitter variance, and the accumulation time affect the randomness of the generated numbers. 
