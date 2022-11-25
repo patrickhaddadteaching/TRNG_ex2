@@ -1,4 +1,5 @@
 <a href="http://example.com/" target="_blank">Hello, world!</a>
+[text-to-highlight](actual-link){:target="\_blank"}
 
 In this exercise, you can analyze the impact of design parameters of the MO-TRNG on the generator output. 
 
