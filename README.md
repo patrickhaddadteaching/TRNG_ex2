@@ -13,7 +13,7 @@ In the case of an ideal RNG, the distribution and the auto-correlation are in 99
     * [Click here](https://colab.research.google.com/github/patrickhaddadteaching/TRNG_ex2/blob/main/TRNG_ex2_nb.ipynb)
     * Then press Ctrl+F9 or click on Runtime/Run All
 * We can also execute this exercise on Binder
-    * Click or scan the QR-code <a href="https://mybinder.org/v2/gh/patrickhaddadteaching/TRNG_ex2/main?urlpath=voila%2Frender%2FTRNG_ex2.ipynb"><img src="qr-code-TRNG_ex2.png" style="width:100px;height:100px;"></a>    
+    * Click or scan the QR-code <a href="https://mybinder.org/v2/gh/patrickhaddadteaching/TRNG_ex2/main?urlpath=voila%2Frender%2FTRNG_ex2_nb.ipynb"><img src="qr-code-TRNG_ex2.png" style="width:100px;height:100px;"></a>    
 * The exercise is a jupyter notebook compatible with voila.
 The following libraries are required:
     * numpy
