@@ -44,3 +44,5 @@ The following libraries are required:
     ```
 2. Linux
 3. Mac OS X
+## Solutions
+* [Click here](https://github.com/patrickhaddadteaching/TRNG_ex2/blob/main/solution.md) to see the solutions
